@@ -23,7 +23,7 @@ Analyze **Wavecon's 5G rollout** in its network services.
 
 ## 🎥 Project Deliverables
 
-- **Dashboard Video Only** (full presentation is 37+ minutes long):  
+- **Project Video**:  
   [![Watch the Project Video](https://img.shields.io/badge/Watch-Project%20Video-blue?style=for-the-badge)](https://lnkd.in/gKc-Umdg)
 
 - **Live Power BI Dashboard**:  
